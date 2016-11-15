@@ -1,8 +1,7 @@
-# MERN Stack Template
+# React Picture Crop and Resize
 
 Includes:
 
-* MongoDB / Mongoose
 * Express
 * React
 * Webpack
