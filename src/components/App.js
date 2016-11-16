@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import PhotoSelector from './PhotoSelector';
 
 export default class App extends Component {
   render() {
     return (
-      <h1 className="text-center">Welcome to React Template!</h1>
+      <div className="container text-center">
+        <PhotoSelector/>
+      </div>
     )
   }
 }
